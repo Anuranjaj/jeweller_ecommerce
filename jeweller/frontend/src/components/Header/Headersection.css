@@ -1,0 +1,26 @@
+ @import "tailwindcss";
+  
+ .section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #FBF9F9;
+ }
+ .logo h1 {
+  color: #1B1C1C;
+  font-size: 24px;
+  font-weight: normal;
+ }
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.nav a{
+   color: #4E453C;
+   margin-left: 20px;
+   font-size: 16px;
+   transition: color 0.3s ease;
+}
+ 

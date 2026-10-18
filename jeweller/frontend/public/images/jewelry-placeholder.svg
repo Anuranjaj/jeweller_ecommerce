@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Jewellery image unavailable">
+  <rect width="800" height="1000" fill="#f4f0e9"/>
+  <path d="M400 294 550 458 400 710 250 458z" fill="none" stroke="#b69b76" stroke-width="12"/>
+  <path d="m250 458 150-164 150 164M250 458h300M400 294v416" fill="none" stroke="#b69b76" stroke-width="7"/>
+  <circle cx="400" cy="458" r="20" fill="#d9c6aa"/>
+  <text x="400" y="810" fill="#796a57" font-family="Georgia,serif" font-size="30" text-anchor="middle" letter-spacing="5">LUMIÈRE</text>
+</svg>
